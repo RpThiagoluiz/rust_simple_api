@@ -1,4 +1,9 @@
-# Commands
+# Hi,
+
+It's a simple API for testing RUST crud.
+I make it with this [video](https://www.youtube.com/watch?v=vhNoiBOuW94)
+
+## Commands
 
 _Up database_
 
